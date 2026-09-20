@@ -197,7 +197,6 @@ GitHub has been used to manage and store the project files for this Hope Hands C
 
 GitHub also has a record of all of the changes that were made to this project
 
----
 
 7. Responsive Design
 
@@ -325,6 +324,9 @@ The following were checked:
 - Overall page appearance
 
 Desktop Screenshot:
+
+<img width="1919" height="1024" alt="Screenshot 2026-09-20 185322" src="https://github.com/user-attachments/assets/087b5b0c-40e7-43ab-b4fc-2b6a26441fe1" />
+
  
 
 
