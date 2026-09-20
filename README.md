@@ -2,11 +2,11 @@ HOPE HANDS COMMUNITY FOUNDATION WEBSITE
 
 1. Introduction
 
-Hope Hands Community Foundation is a community-based initiative focused on supporting disadvantaged families through education, food relief, youth development and community outreach programmes throughout the Gauteng region.
+Hope Hands Community Foundation is a community-based initiative focused on supporting disadvantaged families through education, food relief, youth development and community outreach programmes throughout the Gauteng region
 
-This document describes the purpose of this website and provides an overview of the work of Hope Hands Community Foundation. Visitors to this website can learn more about the organisation as well as the various ways that they can get involved in the work of the foundation.
+This document describes the purpose of this website and provides an overview of the work of Hope Hands Community Foundation. Visitors to this website can learn more about the organisation as well as the various ways that they can get involved in the work of the foundation
 
-This website was created using HTML and CSS The website has been created using a professional and accessible approach that allows the site to be viewed on different screen resolutions and devices.
+This website was created using HTML and CSS The website has been created using a professional and accessible approach that allows the site to be viewed on different screen resolutions and devices
 
 
 
@@ -16,23 +16,22 @@ The purpose of this website is to represent Hope Hands Community Foundation and 
 
 The website will allow users to:
 
-- Understand who Hope Hands Community Foundation is.
+- Understand who Hope Hands Community Foundation is
 
-- Learn more about the organisation's programmes.
+- Learn more about the organisation's programmes
 
-- Understand what the organisation hopes to achieve.
+- Understand what the organisation hopes to achieve
 
-- Learn how to volunteer.
+- Learn how to volunteer
 
 - Find out the organisation's location and contact details.
 
-- Complete volunteer sign-up forms.
+- Complete volunteer sign-up forms
 
-- Browse the website's pages.
+- Browse the website's pages
 
-- Access this resource on computers, mobile devices and tablets.
+- Access this resource on computers, mobile devices and tablets
 
----
 
  3. Target Audience
 
@@ -40,23 +39,23 @@ This Hope Hands Community Foundation website has been created for the general pu
 
 This website is intended for:
 
-- Community members.
+- Community members
 
-- Families who may benefit from the support of the foundation.
+- Families who may benefit from the support of the foundation
 
-- Individuals who want to volunteer.
+- Individuals who want to volunteer
 
-- Potential donors and supporters of the organisation.
+- Potential donors and supporters of the organisation
 
-- Youth who want to participate in development programmes.
+- Youth who want to participate in development programmes
 
-- Communities interested in outreach projects.
+- Communities interested in outreach projects
 
-- Organisations that want to become involved in supporting organisations.
+- Organisations that want to become involved in supporting organisations
 
-The website has been created to be informative and accessible and present relevant information in a clear, engaging and easy-to-understand manner.
+The website has been created to be informative and accessible and present relevant information in a clear, engaging and easy-to-understand manner
 
----
+
 
 4. Web Pages
 
@@ -64,17 +63,17 @@ Home Page
 
 The Home page provides an introduction to Hope Hands Community Foundation, and an overview of the organisation's work. The organisation focuses on delivering:
 
-- Education.
+- Education
 
-- Food relief.
+- Food relief
 
-- Youth development.
+- Youth development
 
-- Community outreach.
+- Community outreach
 
-- Support for disadvantaged families.
+- Support for disadvantaged families
 
-The Home page provides links to the other sections of the website to help users navigate around this resource.
+The Home page provides links to the other sections of the website to help users navigate around this resource
 
 About Us Page
 
@@ -90,71 +89,71 @@ This includes education, food relief, youth development and community outreach a
 
  Volunteer Page
 
-The Volunteer page provides information about those who are interested in becoming involved with the foundation. This page also has a form that allows users to provide their details to be considered for volunteering.
+The Volunteer page provides information about those who are interested in becoming involved with the foundation. This page also has a form that allows users to provide their details to be considered for volunteering
 
 Contact Page
 
-The Contact page provides general contact information for Hope Hands Community Foundation and a form that can be completed by website visitors to ask questions or provide further comments or suggestions.
+The Contact page provides general contact information for Hope Hands Community Foundation and a form that can be completed by website visitors to ask questions or provide further comments or suggestions
 
----
+
 
 5. Features
 
 The following features have been integrated into this Hope Hands Community Foundation website:
 
-- Navigation menu.
+- Navigation menu
 
-- Multiple linked HTML pages.
+- Multiple linked HTML pages
 
-- Responsive page design.
+- Responsive page design
 
-- Hero section.
+- Hero section
 
-- Programme/service cards.
+- Programme/service cards
 
-- Mission and vision information.
+- Mission and vision information
 
-- Community information.
+- Community information
 
-- Volunteer information.
+- Volunteer information
 
-- Volunteer form.
+- Volunteer form
 
-- Contact information.
+- Contact information
 
-- Contact form.
+- Contact form
 
-- Images.
+- Images
 
-- Call-to-action buttons.
+- Call-to-action buttons
 
-- Responsive CSS styling.
+- Responsive CSS styling
 
-- Mobile, tablet and desktop layout styles.
+- Mobile, tablet and desktop layout styles
 
-These features have been added to make this website informative and easy-to-use for its visitors.
+These features have been added to make this website informative and easy-to-use for its visitors
 
----
+
 
  6. Technologies Used
 
  HTML
 
-HTML has been used to develop the structure and content of this website.
+HTML has been used to develop the structure and content of this website
 
 HTML has been used to create:
 
-- Headings.
+- Headings
 
-- Paragraphs.
+- Paragraphs
 
-- Navigation.
+- Navigation
 
-- Sections.
+- Sections
 
-- Images.
+- Images
 
-- Links.
+- Links
 
 - Forms
 
@@ -162,77 +161,77 @@ HTML has been used to create:
 
 - Footer content
 
-Semantic HTML5 elements have been used where appropriate to help structure the content of this website.
+HTML elements have been used where appropriate to help structure the content of this website
 
 CSS
 
-CSS has been used to create the style and presentation of this website.
+CSS has been used to create the style and presentation of this website
 
 CSS has been used to create:
 
-- Colours.
+- Colours
 
-- Fonts.
+- Fonts
 
-- Spacing.
+- Spacing
 
-- Navigation styles.
+- Navigation styles
 
-- Page layouts.
+- Page layouts
 
-- Cards.
+- Cards
 
-- Buttons.
+- Buttons
 
-- Images.
+- Images
 
-- Typography styles.
+- Typography styles
 
-- Responsive design elements.
+- Responsive design elements
 
-- Media query styles.
+- Media query styles
 
-### GitHub
+GitHub
 
-GitHub has been used to manage and store the project files for this Hope Hands Community Foundation website.
+GitHub has been used to manage and store the project files for this Hope Hands Community Foundation website
 
-GitHub also has a record of all of the changes that were made to this project.
+GitHub also has a record of all of the changes that were made to this project
 
 ---
 
 7. Responsive Design
 
-This Hope Hands Community Foundation website was created with a responsive design to ensure that users can easily view the content on a range of devices.
+This Hope Hands Community Foundation website was created with a responsive design to ensure that users can easily view the content on a range of devices
 
 Responsive CSS3 has been used to make this website suitable for:
 
-- Desktop computers and laptops.
+- Desktop computers and laptops
 
-- tablets.
+- tablets
 
-- Smart phones.
+- Smart phones
 
-Media queries have been used to make sure that the layout of this website also adapts to smaller screen sizes.
+Media queries have been used to make sure that the layout of this website also adapts to smaller screen sizes
 
 Responsive design helps to ensure that:
 
-- Content remains readable.
+- Content remains readable
 
-- Images are displayed in a suitable size.
+- Images are displayed in a suitable size
 
-- Sections of this website are displayed appropriately.
+- Sections of this website are displayed appropriately
 
-- Multi-column content can be displayed as single columns on smaller screens.
+- Multi-column content can be displayed as single columns on smaller screens
 
-- Navigation menus are easily accessible.
+- Navigation menus are easily accessible
 
-- Buttons and forms are easy to use.
+- Buttons and forms are easy to use
 
 
 
 8. Responsive Breakpoints
 
-This Hope Hands Community Foundation website uses CSS3 media queries to change the style and layout of the website depending on the screen size that is being used.
+This Hope Hands Community Foundation website uses CSS3 media queries to change the style and layout of the website depending on the screen size that is being used
 
 Tablet Breakpoint
 
@@ -292,21 +291,20 @@ This project also includes:
 
 - README documentation
 
-- GitHub version-control files.
+- GitHub version-control files
 
 HTML files have been added to define the structure and content of this website, while CSS is used to control the visual appearance and responsive layout.
 
----
 
 12. Testing
 
-The website should be tested for different screen sizes to make sure that the layout, navigation, images, forms and content work correctly.
+The website should be tested for different screen sizes to make sure that the layout, navigation, images, forms and content work correctly
 
-The website should be tested at desktop, tablet and mobile screen resolution sizes.
+The website should be tested at desktop, tablet and mobile screen resolution sizes
 
 Desktop Testing
 
-The website was tested on a computer/laptop-sized screen.
+The website was tested on a computer/laptop-sized screen
 
 The following were checked:
 
@@ -324,10 +322,10 @@ The following were checked:
 
 - Forms
 
-- Overall page appearance.
+- Overall page appearance
 
 Desktop Screenshot:
-
+ 
 
 
 
