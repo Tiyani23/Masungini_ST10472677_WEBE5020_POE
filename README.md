@@ -329,6 +329,8 @@ Desktop Screenshot:
 
  
 
+<img width="1892" height="910" alt="Screenshot 2026-09-20 185135" src="https://github.com/user-attachments/assets/b0105eba-d248-4c83-877d-db1fa6fee18e" />
+
 
 
 
@@ -437,7 +439,7 @@ Version 2.0 – Part 2
 - Tested the website on different screen sizes.
 
 
-## 15. GitHub
+ 15. GitHub
 
 GitHub has been used to manage and store this Hope Hands Community Foundation website project
 
