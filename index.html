@@ -5,11 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>Hope Hands Community Foundation</title>
+    <meta name="description" content="Hope Hands Community Foundation is a non-profit organization dedicated to supporting disadvantaged families through education, food relief, youth development, and community outreach programmes across Gauteng. Join us in making a difference.">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
 
-    <!-- CSS -->
+    
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -36,6 +37,12 @@
                 <a href="volunteer.html">Volunteer</a>
                 <a href="contact.html">Contact</a>
             </nav>
+            <form class="site-search" id="siteSearchForm" role="search">
+                <label class="sr-only" for="siteSearchInput">Search the website</label>
+                <input type="search" id="siteSearchInput" placeholder="Search..." autocomplete="off" aria-label="Search website">
+                <button type="submit" aria-label="Submit search">⌕</button>
+                <div class="search-results" id="searchResults" role="status" aria-live="polite"></div>
+            </form>
 
         </div>
 
@@ -63,16 +70,15 @@
             </p>
 
             <div class="hero-buttons">
-
-                <a href="volunteer.html" class="btn btn-primary">
-                    Become a Volunteer
-                </a>
-
-                <a href="#donate" class="btn btn-secondary">
-                    Donate Now
-                </a>
-
-            </div>
+    <a href="volunteer.html" class="btn btn-primary" data-action="become-volunteer">
+        Become a Volunteer
+    </a>
+    <br>
+    <a href="index.html#donate" class="btn btn-secondary" data-action="donate-now">
+    Donate Now
+</a>
+    </a>
+</div>
 
         </div>
 
@@ -223,9 +229,9 @@
 
             </div>
 
-            <a href="volunteer.html" class="btn btn-primary">
-                Volunteer Today
-            </a>
+           <a href="volunteer.html" class="btn btn-primary" data-action="volunteer-today">
+    Volunteer Today
+</a>
 
         </div>
 
@@ -356,17 +362,12 @@
                 opportunities to vulnerable families and young people.
             </p>
 
-            <div class="donation-buttons">
-
-                <button onclick="donate(50)">Donate R50</button>
-
-                <button onclick="donate(100)">Donate R100</button>
-
-                <button onclick="donate(250)">Donate R250</button>
-
-                <button onclick="donate(500)">Donate R500</button>
-
-            </div>
+          <div class="donation-buttons">
+    <button onclick="donate(50)">Donate R50</button>
+    <button onclick="donate(100)">Donate R100</button>
+    <button onclick="donate(250)">Donate R250</button>
+    <button onclick="donate(500)">Donate R500</button>
+</div>
 
             <p id="donationMessage"></p>
 
@@ -479,6 +480,7 @@
 
     </footer>
 
+<script src="script.js"></script>
 
 
 </body>

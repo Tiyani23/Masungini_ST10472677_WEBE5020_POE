@@ -55,6 +55,12 @@
             <a href="contact.html">Contact</a>
 
         </nav>
+            <form class="site-search" id="siteSearchForm" role="search">
+                <label class="sr-only" for="siteSearchInput">Search the website</label>
+                <input type="search" id="siteSearchInput" placeholder="Search..." autocomplete="off" aria-label="Search website">
+                <button type="submit" aria-label="Submit search">⌕</button>
+                <div class="search-results" id="searchResults" role="status" aria-live="polite"></div>
+            </form>
 
     </div>
 
@@ -258,7 +264,7 @@
 
 </footer>
 
-
+<script src="script.js"></script>
 
 </body>
 </html>
