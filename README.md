@@ -29,15 +29,17 @@ The following improvements were made:
 * Improved the layout and spacing of website elements
 * Improved the website’s responsiveness for mobile devices
 * Made improvements to the overall presentation and user experience
+* Improved home page layout and content
+* I also added a map in the contact page
 
-These changes were made to improve the quality, appearance and usability of the website
+These changes were made to improve the quality of the website
 
 4 Technologies Used
 
 The following technologies were used to develop the website:
 
-* HTML5: Used to create the structure and content of the website
-* CSS3: Used to style the website and improve its visual appearance
+* HTML: Used to create the structure and content of the website
+* CSS: Used to style the website and improve its visual appearance
 * JavaScript: Used to add interactive features and improve user experience
 
 5 Website Pages
